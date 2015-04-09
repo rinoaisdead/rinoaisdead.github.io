@@ -67,21 +67,6 @@ a.active {
 	-moz-animation-delay: 1.6s;
 	animation-delay: 1.6s;
 }
-<<<<<<< HEAD
-=======
- 
-/*---make a basic box ---
-.box{
-	width: 200px;
-	height: 200px;
-	position: relative;
-	margin: 10px;
-	float: left;
-	border: 1px solid #333;
-	background: #999;
-}
-*/
->>>>>>> origin/master
 
 h1,
 h2,
