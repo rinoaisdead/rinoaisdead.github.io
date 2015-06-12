@@ -120,7 +120,7 @@ header {
     text-align: center;
     color: #fff;
     background-color: #95b4cf;
-    background: url(../ocean.jpg) no-repeat bottom center scroll;
+    background: url(../ocean_sized.jpg) no-repeat bottom center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
